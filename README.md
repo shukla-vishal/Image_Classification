@@ -12,5 +12,9 @@ Ground truth classes for the Pavia University scene and their respective samples
  ![image](https://user-images.githubusercontent.com/64328738/120937038-bbe68c80-c728-11eb-91e0-045c44a41f7b.png)
                                                   ![image](https://user-images.githubusercontent.com/64328738/120937041-c1dc6d80-c728-11eb-9319-bc584122e84b.png)
                     
+KNN
+K-Nearest Neighbour is one of the simplest Machine Learning algorithms based on Supervised Learning technique.It assumes the similarity between the new case/data and available cases and put the new case into the category that is most similar to the available categories.K-NN algorithm stores all the available data and classifies a new data point based on the similarity.This means when new data appears then it can be easily classified into a well suite category by using K- NN algorithm.
 
+SVM
+Support Vector Machine(SVM) is a supervised machine learning algorithm which can be used for both classification or regression challenges.In the SVM algorithm, we plot each data item as a point in n-dimensional space (where n is number of features you have) with the value of each feature being the value of a particular coordinate. Then, perform classification by finding the hyper-plane that differentiates the two classes very well.
 
